@@ -36,8 +36,10 @@ If unable to run, check your Java version (java -version) and make sure the java
 ## EXTRA!!!
 Google Drawing Concept!
 
-![concept](https://github.com/MarkieSalzwedel/Space-Explorer-hangman-Java-GUI/assets/119880237/a23e5858-a3d8-4d3a-b7b2-461c44aad02c)
+![concept](https://github.com/MarkieSalzwedel/Space-Explorer-hangman/assets/119880237/cea832dc-1a5d-4400-a9b4-3c5b7a599963)
+
 
 Final GUI Build (Space-Explorer-hangman_v1)!
 
-![Final Build](https://github.com/MarkieSalzwedel/Space-Explorer-hangman-Java-GUI/assets/119880237/f12ba9c1-b7c5-4946-add4-8d00e3d0a80b)
+![Final Build](https://github.com/MarkieSalzwedel/Space-Explorer-hangman/assets/119880237/ea947cde-9a69-4175-97b9-fcec5edab994)
+
