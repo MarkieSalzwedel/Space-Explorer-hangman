@@ -12,9 +12,12 @@ Space Explorer was a project focusing on:
 
 ## Requirements
 Space-Explorer-hangman_v1: requires Java SDK 21.0.1 (the latest release)
+
 Space-Explorer-hangman_v1.1: requires Java SDK 1.8 or higher
 
+
 words_list.txt: stores the list of words (new words placed on new lines)
+
 images folder: stores the images used to display the rocket (eg. 'Ship_Lives_0' is the image that will display when the player reaches 0 lives)
 
 ## Setup Instructions
