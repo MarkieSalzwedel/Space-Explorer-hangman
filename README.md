@@ -11,15 +11,14 @@ Space Explorer was a project focusing on:
 - Separation of game logic and GUI design
 
 ## Requirements
-Space-Explorer-hangman_v1: requires Java SDK 21.0.1 (the latest release)
+- Space-Explorer-hangman_v1: requires Java SDK 21.0.1 (the latest release)
 
-Space-Explorer-hangman_v1.1: requires Java SDK 1.8 or higher
+- Space-Explorer-hangman_v1.1: requires Java SDK 1.8 or higher
 
 
+- words_list.txt: stores the list of words (new words placed on new lines)
 
-words_list.txt: stores the list of words (new words placed on new lines)
-
-images folder: stores the images used to display the rocket (eg. 'Ship_Lives_0' is the image that will display when the player reaches 0 lives)
+- images folder: stores the images used to display the rocket (eg. 'Ship_Lives_0' is the image that will display when the player reaches 0 lives)
 
 ## Setup Instructions
 1. Download the ZIP
@@ -33,6 +32,13 @@ OR
 6. java -jar Space-Explorer-hangman_v1.jar
 
 If unable to run, check your Java version (java -version) and make sure the java version installed on your system matches the requirements
+
+## Version 1.X Features
+- Graphics: displays a rocket and stars that represent the player's lives
+- Text field: enter user input (letter or word)
+- Enter button: accepts user input
+- Text field and button disables once the player either wins or loses
+- Lives will not be lost if user inputs a letter/word they have already guessed
 
 ## EXTRA!!!
 Google Drawing Concept!
